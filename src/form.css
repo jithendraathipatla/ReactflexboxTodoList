@@ -1,0 +1,18 @@
+.container{
+    text-align: center;
+}
+ul{
+    list-style-type: none;
+    display:flex;
+    border:1px dotted red;
+    flex-wrap: wrap;
+    align-content: space-between;
+    align-items:center
+   
+}
+
+li{
+    border: 1px solid blue;
+    margin:2rem;
+    padding:1rem;
+}
